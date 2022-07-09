@@ -21,6 +21,7 @@ baseurl: "/kinetic.reviews" # the subpath of your site, e.g. /blog
 url: "https://gordonhart.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: madeline_zimm
+google_analytics: G-Z72ZL7JFW4
 
 # Build settings
 markdown: kramdown
