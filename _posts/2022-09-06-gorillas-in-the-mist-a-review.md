@@ -1,7 +1,7 @@
 ---
 layout: post
-title: _Gorillas in the Mist_: A Review
-author: Madeline Zimmerman
+title: "Gorillas in the Mist: A Review"
+author: "Madeline Zimmerman"
 categories: literature
 ---
 
