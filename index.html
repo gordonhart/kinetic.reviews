@@ -1,4 +1,11 @@
 ---
-title: Home
-layout: home
+layout: default
 ---
+
+<h2>Reviews</h2>
+
+<table>
+  {% for post in site.data.posts %}{% unless post.fragment %}
+  {% include row.html post=post %}
+  {% endunless %}{% endfor %}
+</table>

@@ -1,0 +1,10 @@
+<tr>
+  <td>{{ post.date | date: "%b" }}</td>
+  <td>{{ post.date | date: "%Y" }}</td>
+  <td />
+  <td>
+    <a href="posts/{{ post.date }}-{{ post.slug }}">
+      <i>{{ post.title }}</i>
+    </a> ({{ post.year }}) by {{ post.author }}
+  </td>
+</tr>
