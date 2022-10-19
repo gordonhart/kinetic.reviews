@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<i>Gorillas in the Mist</i>: A Review"
+title: "<i>Gorillas in the Mist</i> (1983)"
 author: Dian Fossey
 date: 2022-09-07
 tags: nonfiction, biography

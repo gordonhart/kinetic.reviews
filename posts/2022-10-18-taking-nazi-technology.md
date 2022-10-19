@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<i>Taking Nazi Technology</i> (2019): A Review"
+title: "<i>Taking Nazi Technology</i> (2019)"
 author: Douglas O'Reagan
 date: 2022-10-18
 tags: nonfiction

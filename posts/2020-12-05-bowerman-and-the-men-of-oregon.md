@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<i>Bowerman and the Men of Oregon</i>: A Review"
+title: "<i>Bowerman and the Men of Oregon: The Story of Oregon's Legendary Coach and Nike's Co-founder</i> (2006)"
 author: Kenny Moore
 date: 2020-12-05
 tags: nonfiction, biography
