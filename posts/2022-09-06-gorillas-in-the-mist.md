@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "<i>Gorillas in the Mist</i>: A Review"
-author: "Madeline Zimmerman"
-categories: literature
+author: Dian Fossey
+date: 2022-09-07
+tags: nonfiction, biography
 ---
 
 > As a pioneer I sometimes did endure loneliness, but I have reaped a tremendous satisfaction that followers will never be able to know. (pg. 25)
