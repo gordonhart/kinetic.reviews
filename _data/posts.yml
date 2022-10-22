@@ -10,14 +10,35 @@
   date: 2022-09-06
   slug: gorillas-in-the-mist
 
-- title: Bowerman and the Men of Oregon
+- title: "Bowerman and the Men of Oregon: The Story of Oregon's Legendary Coach and Nike's Co-founder"
   author: Kenny Moore
   year: 2006
   date: 2020-12-05
   slug: bowerman-and-the-men-of-oregon
 
-- title: The Kill Chain
+- title: "The Precipice: Existential Risk and the Future of Humanity"
+  author: Toby Ord
+  year: 2020
+  date: 2020-09-13
+  slug: the-precipice
+  fragment: true
+
+- title: The Path to Power
+  author: Robert Caro
+  year: 1982
+  date: 2020-06-02
+  slug: the-path-to-power
+  fragment: true
+
+- title: "The Kill Chain: How Emerging Technologies Threaten America's Military Dominance"
   author: Christian Brose
   year: 2020
   date: 2020-04-24
   slug: the-kill-chain
+
+- title: "The Code: Silicon Valley and the Remaking of America"
+  author: Margaret O'Mara
+  year: 2019
+  date: 2019-07-28
+  slug: the-code
+  fragment: true

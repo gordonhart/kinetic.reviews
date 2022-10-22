@@ -9,3 +9,11 @@ layout: default
   {% include row.html post=post %}
   {% endunless %}{% endfor %}
 </table>
+
+<h2>Fragments</h2>
+
+<table>
+  {% for post in site.data.posts %}{% if post.fragment %}
+  {% include row.html post=post %}
+  {% endif %}{% endfor %}
+</table>
