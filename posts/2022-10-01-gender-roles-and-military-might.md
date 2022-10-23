@@ -1,16 +1,6 @@
 ---
 layout: post
 title: H.G. Wells and Cixin Liu on Gender Roles and Military Might
-<tr>
-  <td>{{ post.date | date: "%b" }}</td>
-  <td>{{ post.date | date: "%Y" }}</td>
-  <td />
-  <td>
-    <a href="posts/{{ post.date }}-{{ post.slug }}">
-      <i>{{ post.title }}</i>
-    </a> ({{ post.year }}) by {{ post.author }}
-  </td>
-</tr>
 date: 2022-10-01
 tags: science-fiction
 ---
@@ -37,7 +27,7 @@ On a similar note, here is _Death’s End_ protagonist, Cheng Xin, waking from s
 >
 > …At one point a military commander exclaims, “Don’t you know that there are no more men on Earth?”
 
-The people of Earth pay the price for their softened ways when the alien Trisolarans eventually find a chink in Earth’s metaphorical armor, causing mass casulaties and destruction.
+The people of Earth pay the price for their softened ways when the alien Trisolarans eventually find a chink in Earth’s metaphorical armor, causing mass casualties and destruction.
 
 Some people will read the above excerpts and conclude Wells and Liu to be misogynists, but they are exploring an interesting and controversial question of the necessity for gender distinction in a society that has for the most part transcended the need for physical advantages. This is where the West largely finds itself, even in military matters. National defense policy is focused on developing more lethal soldiers via better technology not better physique.
 
