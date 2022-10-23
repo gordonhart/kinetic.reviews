@@ -1,7 +1,17 @@
 ---
 layout: post
 title: H.G. Wells and Cixin Liu on Gender Roles and Military Might
-date: 2022-10-23
+<tr>
+  <td>{{ post.date | date: "%b" }}</td>
+  <td>{{ post.date | date: "%Y" }}</td>
+  <td />
+  <td>
+    <a href="posts/{{ post.date }}-{{ post.slug }}">
+      <i>{{ post.title }}</i>
+    </a> ({{ post.year }}) by {{ post.author }}
+  </td>
+</tr>
+date: 2022-10-01
 tags: science-fiction
 ---
 
