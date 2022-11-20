@@ -4,39 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:image" content="https://kinetic.reviews/assets/img/warrior.jpg" />
-
     {% seo %}
-
+    <meta property="og:image" content="https://kinetic.reviews/assets/img/warrior.jpg" />
     <link rel="stylesheet" href="/assets/css/style.css">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <a href="/">
-          <img src="/assets/img/warrior.jpg" alt="Logo" />
-        </a>
+    <header>
+      <a href="/">
+        <img src="/assets/img/warrior.jpg" alt="Logo" />
+      </a>
 
-        <small>{{ site.description | default: site.github.project_tagline }}</small>
+      <small>{{ site.description | default: site.github.project_tagline }}</small>
 
-        <nav>
-          <a href="/">Home</a>
-          <a href="/about">About</a>
-        </nav>
-      </header>
-      <section>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+      </nav>
+    </header>
+    <section>
 
-      {{ content }}
+    {{ content }}
 
-      </section>
-      <footer>
-        <small>© {{ "now" | date: "%Y" }}</small>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
+    </section>
+    <footer>
+      <small>© {{ "now" | date: "%Y" }}</small>
+    </footer>
   </body>
 </html>
