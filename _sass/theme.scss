@@ -3,12 +3,13 @@
 
 body {
   background-color: #fff;
-  margin: 0;
+  margin: 0 auto;
   padding: $gap-large;
   font: $font-size-normal "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
   color: $color-text;
   font-weight: 400;
+  width: $width-body;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,11 +38,6 @@ a {
     color: darken($color-link, 10%);
     text-decoration: underline;
   }
-}
-
-div.wrapper {
-  width: $width-body;
-  margin: 0 auto;
 }
 
 blockquote {
@@ -133,9 +129,6 @@ footer {
   body {
     padding: 0 $gap-normal $gap-normal $gap-normal;
     word-wrap: break-word;
-  }
-
-  div.wrapper {
     max-width: $width-section;
     margin: auto;
     width: auto;
