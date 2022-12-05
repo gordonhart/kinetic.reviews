@@ -8,5 +8,6 @@
     </a>
     {% if post.year %}({{ post.year }}){% endif %}
     {% if post.author %}by {{ post.author }}{% endif %}
+    {% if post.fragment %}<small>[fragment]</small>{% endif %}
   </td>
 </tr>
