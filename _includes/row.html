@@ -3,11 +3,14 @@
   <td>{{ post.date | date: "%Y" }}</td>
   <td />
   <td>
-    <a href="posts/{{ post.date }}-{{ post.slug }}">
-      {% if post.author %}<i>{% endif %}{{ post.title }}{% if post.author %}</i>{% endif %}
-    </a>
-    {% if post.year %}({{ post.year }}){% endif %}
-    {% if post.author %}by {{ post.author }}{% endif %}
-    {% if post.fragment %}<small>[fragment]</small>{% endif %}
+    <div>
+      <a href="posts/{{ post.date }}-{{ post.slug }}">
+        {% if post.author %}<i>{% endif %}{{ post.title }}{% if post.author %}</i>{% endif %}
+      </a>
+      {% if post.year %}({{ post.year }}){% endif %}
+      {% if post.author %}by {{ post.author }}{% endif %}
+      {% if post.fragment %}<small>[fragment]</small>{% endif %}
+    </div>
+    {% if post.blurb %}<aside><small>{{ post.blurb }}</small></aside>{% endif %}
   </td>
 </tr>
