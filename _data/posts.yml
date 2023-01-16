@@ -9,34 +9,46 @@
   year: 2022
   date: 2022-12-04
   slug: paper-belt-on-fire
+  blurb: |
+    Gibson's book details the history of the controversial but highly successful Thiel Fellowship from the rare perspective of someone who worked with Thiel and isn't out to write a hit piece. 
 
 - title: "Chip War: The Fight for the World's Most Critical Technology"
   author: Chris Miller
   year: 2022
   date: 2022-11-06
   slug: chip-war
+  blurb: |
+    The chip supply chain is so complex that for all the talk of offshored manufacturing and dependence on China, the United States and her client states control critical choke points and will continue to do so for the foreseeable future.
 
 - title: Taking Nazi Technology
   author: Douglas O'Reagan
   year: 2019
   date: 2022-10-18
   slug: taking-nazi-technology
+  blurb: |
+    Taking technology is easy; integrating it is hard. Sustained, on the ground contact with German scientists, including visiting factories and embedding trainees into German research centers, yielded the best results. The Allied powers (mis)understood this to various degrees, and their approaches to technology appropriation differed based on resources available and ideology.
 
 - title: H.G. Wells and Cixin Liu on Gender Roles and Military Might
   date: 2022-10-01
   slug: gender-roles-and-military-might
+  blurb: |
+    The feminization of men as both a leading and lagging indicator of the state of society is a central and unexpected theme in H.G. Wells’ 1895 science fiction classic <i>The Time Machine.<i/> The same theme appears in Cixin Liu's <i>Death's End.</i> 
 
 - title: Gorillas in the Mist
   author: Dian Fossey
   year: 1983
   date: 2022-09-06
   slug: gorillas-in-the-mist
+  blurb: |
+    Prior to reading <i>Gorillas in the Mist</i>, I knew little about Dian Fossey save for her status as the Jane Goodall of gorillas and her brutal and mysterious death in Rwanda, likely at the hands of poachers. With her memoir behind me, the most interesting question is not who killed Fossey, but how she survived for as long as she did.
 
 - title: "Bowerman and the Men of Oregon: The Story of Oregon's Legendary Coach and Nike's Co-founder"
   author: Kenny Moore
   year: 2006
   date: 2020-12-05
   slug: bowerman-and-the-men-of-oregon
+  blurb: |
+    As the title of the book states, Bill Bowerman was known first and foremost as Oregon’s iconic track coach and only second as the founder of Nike, a fact which all but guarantees an interesting biography. 
 
 - title: "The Precipice: Existential Risk and the Future of Humanity"
   author: Toby Ord
@@ -57,6 +69,8 @@
   year: 2020
   date: 2020-04-24
   slug: the-kill-chain
+  blurb: |
+    <i>The Kill Chain</i> is a convincing wake-up call that the military-congressional-industrial complex is so broken that the very survival of America as Americans know it is at risk unless mammoth changes are made in how the Department of Defense defines, identifies, procures and deploys emerging technology, a problem that is as much about organizational change as it is about technological change
 
 - title: "The Code: Silicon Valley and the Remaking of America"
   author: Margaret O'Mara
