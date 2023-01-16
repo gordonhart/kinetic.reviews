@@ -1,16 +1,17 @@
 $color-text: #222222;
+$color-text-muted: #767676;
 $color-link: #0a2c80;
 $color-gray: #e5e5e5;
-
-$width-body: 860px;
-$width-sidebar: 270px;
-$width-section: 500px;
-
-$font-size-large: 28px;
-$font-size-normal: 14px;
-$font-size-small: 11px;
 
 $gap-large: 50px;
 $gap-normal: 20px;
 $gap-half: 10px;
 $gap-small: 5px;
+
+$width-sidebar: 270px;
+$width-section-min: 500px;
+$width-section-max: 600px;
+
+$font-size-large: 24px;
+$font-size-normal: 14px;
+$font-size-small: 11px;
