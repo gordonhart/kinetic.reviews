@@ -2,10 +2,10 @@
 layout: post
 title: "<i>Active Defense</i> and China's Sputnik Moment"
 date: 2022-12-31
-tags: nonfiction
+tags: nonfiction, space, China
 ---
 
-In 1957, the Soviet Union launched the first artificial Earth-orbiting satellite, _Sputnik 1_, and achieved a critical Cold War milestone before the US. The American public was shocked to learn that the Soviets, far from being technologically behind, were ahead of the US – and so the “Sputnik Moment” marked the launch of the Skpace Race, providing the wake-up call the US needed to invest in science and technology and beat the Soviets to the Moon in 1969. That’s the tidy version of the narrative, anyways. The reality is more complicated, as President Eisenhower and the CIA were tracking Soviet satellite developments closely and were not actually surprised by the Sputnik 1 launch.
+In 1957, the Soviet Union launched the first artificial Earth-orbiting satellite, _Sputnik 1_, and achieved a critical Cold War milestone before the US. The American public was shocked to learn that the Soviets, far from being technologically behind, were ahead of the US – and so the “Sputnik Moment” marked the launch of the Space Race, providing the wake-up call the US needed to invest in science and technology and beat the Soviets to the Moon in 1969. That’s the tidy version of the narrative, anyways. The reality is more complicated, as President Eisenhower and the CIA were tracking Soviet satellite developments closely and were not actually surprised by the Sputnik 1 launch.
 
 Regardless, “Sputnik Moment” entered the lexicon to refer to a single event that spurs a country into realizing they need to change the status quo to remain competitive. In defense circles, the term is ubiquitous. President Obama even [used it](https://obamawhitehouse.archives.gov/blog/2010/12/06/president-obama-north-carolina-our-generation-s-sputnik-moment-now) in 2010, calling the recession “our generation’s Sputnik Moment” and that we cannot go back to an economy “built on financial speculation.” Like many an overused idiom, Sputnik Moment has lost its potency, particularly when used by the US defense establishment (today, everything China does is a Sputnik Moment, but, ironically, nothing is severe enough to warrant a change). However, the term is useful when considering what events may have served as other countries' Sputnik Moments. 
 
