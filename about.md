@@ -11,6 +11,6 @@ I’m interested in human conflict: what causes it, how we engage in it, and how
 <figure>
   <img alt="Bradley Fighting Vehicle" src="/assets/img/bfv.jpg" />
   <figcaption><center><small>
-    Bradley Fighting Vehicle
+    The Bradley Fighting Vehicle, whose troubled development and procurement is documented in <i>The Pentagon Wars</i>.
   </small></center></figcaption>
 </figure>
