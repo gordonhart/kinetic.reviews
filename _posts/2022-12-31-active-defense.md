@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "<i>Active Defense</i> and China's Sputnik Moment"
-blurb: The Gulf War (1990-91) was China’s Sputnik Moment. Only one month after Iraq’s swift and stunning defeat by the US-led coalition forces, China’s senior leaders, during party speeches, perfectly capture the sentiment of a Sputnik Moment: Jiang Zemin, CCP General Secretary, noted "[China’s] backwards technology means being in a passive position and taking a beating."
+blurb: |
+  The Gulf War (1990-91) was China’s Sputnik Moment. Only one month after Iraq’s swift and stunning defeat by the US-led coalition forces, China’s senior leaders, during party speeches, perfectly capture the sentiment of a Sputnik Moment: Jiang Zemin, CCP General Secretary, noted "[China’s] backwards technology means being in a passive position and taking a beating."
 tags:
   - nonfiction
   - space

@@ -50,10 +50,6 @@ h1, h2, h3 {
 
 h1 {
   font-size: $font-size-large;
-  
-  &.subtitled {
-    margin: 0 0 $gap-half;
-  }
 }
 
 
@@ -164,12 +160,11 @@ hr {
 
     nav {
       flex-direction: row;
-      justify-content: flex-end;
     }
+  }
 
-    small {
-      float: right;
-    }
+  header nav {
+    float: right;
   }
 
   section {

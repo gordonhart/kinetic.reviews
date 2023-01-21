@@ -4,7 +4,7 @@
   <td />
   <td>
     <div>
-      <a href="posts/{{ post.date }}-{{ post.slug }}">
+      <a href="{{ post.url }}">
         {% if post.author %}<i>{% endif %}{{ post.title }}{% if post.author %}</i>{% endif %}
       </a>
       {% if post.year %}({{ post.year }}){% endif %}
