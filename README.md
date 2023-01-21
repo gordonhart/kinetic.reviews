@@ -1,7 +1,7 @@
 # kinetic.reviews
 
 ```
-$ ./script/bootstrap
+$ ./scripts/bootstrap.sh
 $ bundle exec jekyll serve
 ```
 
