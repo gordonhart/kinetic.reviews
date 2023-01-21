@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "<i>Taking Nazi Technology</i> (2019)"
+title: "<i>Taking Nazi Technology</i>"
 author: Douglas O'Reagan
-date: 2022-10-18
-tags: nonfiction
+year: 2019
+blurb: Taking technology is easy; integrating it is hard. Sustained, on-the-ground contact with German scientists, including visiting factories and embedding trainees into German research centers, yielded the best results. The Allied powers (mis)understood this to various degrees, and their approaches to technology appropriation differed based on resources available and ideology.
+tags:
+  - nonfiction
 ---
 
 When most people hear “taking Nazi technology,” their first and perhaps only association is Operation Paperclip, featuring Werner von Braun, his V-2 rocket, and the subsequent Saturn V that took men to the moon. But _Taking Nazi Technology_ is a book about the sweeping efforts of the Americans, British, French, and Soviets to seize technology that went well beyond rocketry to cover the whole of the Industrial base, from automotives to chemicals to textiles. Although this is a less sexy topic, it gives O’Reagan space to analyze what it means to “take” technology.

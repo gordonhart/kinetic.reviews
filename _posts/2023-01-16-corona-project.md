@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "<i>The Corona Project: America's First Spy Satellites</i> (1997)"
+title: "<i>The Corona Project: America's First Spy Satellites</i>"
 author: Curtis Peebles
-date: 2023-01-16
-tags: nonfiction, space
+year: 1997
+blurb: |
+  To quote the National Reconnaissance Office (NRO), itself a product of CORONA, “The United States of America, confronted by the problem of a closed society, was once blind, but now it could see.”
+tags:
+  - nonfiction
+  - space
 ---
 
 I recently gave a software demonstration on the power of satellite imagery for persistently monitoring the activity of our “strategic competitors” (e.g., Russia and China). An Air Force general interrupted me to ask how exactly it was possible for the United States to fly assets over contested airspace without them getting shot down. In 2022, he was asking this question several decades too late, but I empathize with his sense of wonderment.

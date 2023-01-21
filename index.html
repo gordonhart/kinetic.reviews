@@ -5,7 +5,7 @@ layout: default
 <h1>Kinetic Reviews</h1>
 
 <table>
-  {% for post in site.data.posts %}
+  {% for post in site.posts %}
   {% include row.html post=post %}
   {% endfor %}
 </table>

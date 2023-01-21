@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "<i>Gorillas in the Mist</i> (1983)"
+title: "<i>Gorillas in the Mist</i>"
 author: Dian Fossey
-date: 2022-09-07
-tags: nonfiction, biography
+year: 1983
+blurb: Prior to reading <i>Gorillas in the Mist</i>, I knew little about Dian Fossey save for her status as the Jane Goodall of gorillas and her brutal and mysterious death in Rwanda, likely at the hands of poachers. With her memoir behind me, the most interesting question is not who killed Fossey, but how she survived for as long as she did.
+tags:
+  - nonfiction
+  - biography
 ---
 
 > As a pioneer I sometimes did endure loneliness, but I have reaped a tremendous satisfaction that followers will never be able to know. (pg. 25)
