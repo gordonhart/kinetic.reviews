@@ -1,15 +1,12 @@
 <tr>
   <td>{{ post.date | date: "%b" }}</td>
   <td>{{ post.date | date: "%Y" }}</td>
-  <td />
   <td>
     <div>
-      <a href="{{ post.url }}">
-        {% if post.author %}<i>{% endif %}{{ post.title }}{% if post.author %}</i>{% endif %}
-      </a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       {% if post.year %}({{ post.year }}){% endif %}
       {% if post.author %}by {{ post.author }}{% endif %}
-      {% if post.fragment %}<small>[fragment]</small>{% endif %}
+      {% if post.tags contains "fragment" %}<small>[fragment]</small>{% endif %}
     </div>
     {% if post.blurb %}<aside><small>{{ post.blurb }}</small></aside>{% endif %}
   </td>

@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>
+  {{ page.title }} {% if page.year %}<span>({{ page.year }})</span>{% endif %}
+</h1>
 
 {% if page.author %}
 <p>
-<div>Written by {{ page.author }}</div>
-<div>Reviewed by {{ site.author }}</div>
+  <div>Written by {{ page.author }}</div>
+  <div>Reviewed by {{ site.author }}</div>
 </p>
 {% else %}
 <p>By {{ site.author }}</p>
@@ -15,10 +17,10 @@ layout: default
 
 {{ content }}
 
-<div><small>reviewed on {{ page.date }}</small></div>
+<div><small>date: {{ page.date | date_to_string }}</small></div>
 
 {% if page.tags %}
-<div><small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small><div>
+<div><small>tags: <em>{{ page.tags | join: ", " }}</em></small><div>
 {% endif %}
 
 {% if page.links %}
