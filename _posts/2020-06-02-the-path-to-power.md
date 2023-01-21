@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "<i>The Path to Power</i> (1982)"
+title: "<i>The Path to Power</i>"
 author: Robert Caro
-date: 2020-04-24
-tags: nonfiction
+year: 1982
+tags:
+  - nonfiction
+  - fragment
 ---
 
 A master-class sycophant to his superiors, utterly disdainful to those who could do nothing for him, LBJ does not emerge as a principled man in Caro's first volume. His most prominent qualities are downright odious: narcissistic, selfish, rude. He is abusive towards his most hardworking employees, cheats in his college election, cheats in his elections to "Little Congress," cheats on his wife, enables his major campaign donor, the Brown & Root construction company, to commit tax fraud, buys votes in corrupt counties during his 1941 Senate campaign (still loses - he didn't buy enough), and drops his public persona as a "New Dealer" the minute FDR drops dead. And this is only Volume 1! Incredibly, LBJ does not even possess the traits that seem to be common among successful politicians; he is a bad public speaker and is not liked by most people, especially his peers. 

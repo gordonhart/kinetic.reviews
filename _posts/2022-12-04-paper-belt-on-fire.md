@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "<i>Paper Belt on Fire: How Renegade Investors Sparked a Revolt Against the University</i> (2022)"
+title: "<i>Paper Belt on Fire: How Renegade Investors Sparked a Revolt Against the University</i>"
 author: Michael Gibson
-date: 2022-12-04
-tags: nonfiction
+year: 2022
+blurb: Gibson's book details the history of the controversial but highly successful Thiel Fellowship from the rare perspective of someone who worked with Thiel and isn't out to write a hit piece. 
+tags:
+  - nonfiction
 ---
 
 Philosophy PhD dropout Michael Gibson co-created the Thiel Fellowship with former school principal Danielle Strachman and entrepreneur, venture capitalist, and Bogeyman of the left Peter Thiel. A motley crew to be sure. _Paper Belt on Fire_ is at its best and most differentiated when describing:

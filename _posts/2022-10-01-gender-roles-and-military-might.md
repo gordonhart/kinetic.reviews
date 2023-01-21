@@ -1,8 +1,9 @@
 ---
 layout: post
 title: H.G. Wells and Cixin Liu on Gender Roles and Military Might
-date: 2022-10-01
-tags: science-fiction
+blurb: The feminization of men as both a leading and lagging indicator of the state of society is a central and unexpected theme in H.G. Wells’ 1895 science fiction classic <i>The Time Machine.<i/> The same theme appears in Cixin Liu's <i>Death's End.</i> 
+tags:
+  - science-fiction
 ---
 
 The feminization of men as both a leading and lagging indicator of the state of society is a central and unexpected theme in H.G. Wells’ 1895 science fiction classic _The Time Machine_. I first read an exploration of this hypothetical in Cixin Liu’s _Death’s End_ (2010), the third book in his _Remembrance of Earth’s Past_ trilogy. Sometimes reading the “canon” is useful for no reason other than to illustrate that concepts or analyses that you thought were novel are in fact riffs on something another author explored first. Per Cormac McCarthy: “The ugly fact is books are made out of books.” While I have no evidence that Liu read _The Time Machine_, Wells still gets the originality points, and Liu’s work feels derivative when directly compared.

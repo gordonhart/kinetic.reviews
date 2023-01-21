@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "<i>Bowerman and the Men of Oregon: The Story of Oregon's Legendary Coach and Nike's Co-founder</i> (2006)"
+title: "<i>Bowerman and the Men of Oregon: The Story of Oregon's Legendary Coach and Nike's Co-founder</i>"
 author: Kenny Moore
-date: 2020-12-05
-tags: nonfiction, biography
+year: 2006
+blurb: Bill Bowerman was known first and foremost as Oregon’s iconic track coach and only second as the founder of Nike, a fact which all but guarantees an interesting biography. 
+tags:
+  - nonfiction
+  - biography
 ---
 
 As the title of the book states, Bill Bowerman was known first and foremost as Oregon’s iconic track coach and only second as the founder of Nike, a fact which all but guarantees an interesting biography. While author Moore had excellent source material, great credit goes to him for producing a beautifully-written book that is engaging whether it is bringing to life dozens of races or recounting the tribulations of Bowerman’s ancestors on the Oregon trail. Moore’s account also benefits from his own intimate relationship to the subject: a Bowerman-trained athlete while at Oregon and for years after, Moore just missed an Olympic medal in the Marathon.

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "<i>The Kill Chain: How Emerging Technologies Threaten America's Military Dominance</i> (2020)"
+title: "<i>The Kill Chain: How Emerging Technologies Threaten America's Military Dominance</i>"
 author: Christian Brose
-date: 2020-04-24
-tags: nonfiction
+year: 2020
+blurb: A convincing wake-up call that the military-congressional-industrial complex is so broken that the very survival of America as Americans know it is at risk unless mammoth changes are made in how the Department of Defense defines, identifies, procures and deploys emerging technology, a problem that is as much about organizational change as it is about technological change
+tags:
+  - nonfiction
 ---
 
 _The Kill Chain_ is a convincing wake-up call that the military-congressional-industrial complex is so broken that the very survival of America as Americans know it is at risk unless mammoth changes are made in how the Department of Defense defines, identifies, procures and deploys emerging technology, a problem that is as much about organizational change as it is about technological change. 

@@ -50,21 +50,11 @@ h1, h2, h3 {
 
 h1 {
   font-size: $font-size-large;
-  
-  &.subtitled {
-    margin: 0 0 $gap-half;
-  }
 }
 
 
 p, ul, ol, table, pre, dl {
   margin: 0 0 $gap-normal;
-}
-
-div.fiction > p {
-  margin: 0 0 $gap-small;
-  text-indent: $gap-normal;
-  text-align: justify;
 }
 
 a {
@@ -165,10 +155,6 @@ hr {
     nav {
       flex-direction: row;
       justify-content: flex-end;
-    }
-
-    small {
-      float: right;
     }
   }
 

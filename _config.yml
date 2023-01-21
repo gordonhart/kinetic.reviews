@@ -5,3 +5,4 @@ google_analytics: G-1090RZW07L
 author: Madeline Zimmerman
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
