@@ -4,7 +4,7 @@ title: "<i>The Pentagon Wars: Reformers Challenge the Old Guard</i>"
 author: James G. Burton
 year: 1993
 blurb: |
-  Col Burton "crosses the Rubicon,” to use his phrase, and goes to war with the Pentagon over the testing of the Bradley Fighting Vehicle. Burton meticulously details how careerism, incompetence, and willful stupidity collide in a tragically ironic way to undermine the testing of the weapons meant to protect troops. 
+  Col. Burton "crosses the Rubicon,” to use his phrase, and goes to war with the Pentagon over the testing of the Bradley Fighting Vehicle. Burton meticulously details how careerism, incompetence, and willful stupidity collide in a tragically ironic way to undermine the testing of the weapons meant to protect troops. 
 tags:
   - nonfiction
 ---
@@ -20,10 +20,12 @@ In 2023, the Bradley is back in the headlines with the United States’ commitme
 In 1983, the cover of <i>Time</i> magazine was splashed with the face of Chuck Spinney, a key individual in the Reform Movement, and the question: <i>U.S. Defense Spending, Are Billions Being Wasted?</i> It was a different era. A civil servant could become a celebrity, <i>Time</i> was relevant, and the public was capable of being surprised that the answer to this question could be anything other than a resounding “yes.”
 
 <figure>
-  <img alt="Chuck Spinney" src="/assets/img/ChuckSpinney.jpg" />
-  <figcaption><center><small>
+  <center>
+  <img style="width: 100%; max-width: 360px" alt="Chuck Spinney" src="/assets/img/ChuckSpinney.jpg" />
+  <figcaption><small>
     Chuck Spinney makes an appearance on the cover of the March 7, 1983 issue of <i>Time</i>.
-  </small></center></figcaption>
+  </small></figcaption>
+  </center>
 </figure>
 
 The Reform Movement started by John Boyd and Pierre Sprey in the late 1970s garnered bipartisan support and led to the creation of the Congressional Military Reform Caucus. At its peak in the early 1980s, the caucus had over 100 members. Boyd and Sprey generated bipartisan support with arguments for reform that transcended mere advocacy for budget cuts. The Reformers reached the damning conclusion that “budget constraints were not the source of the problem.” No surprise there. The problems were how the military fought, the weapons they fought with, and the way those weapons were tested and procured. 
@@ -38,7 +40,7 @@ What’s impressive about Burton’s whistleblowing on weapons systems testing i
 
 At this point, the reader may be wondering in earnest just why testing and procurement are so dirty. The answer is simple: human behavior maps to the incentives an organization creates. This is not to excuse the immoral behavior of many of the actors in <i>The Pentagon Wars,</i> but it does explain it. Here’s Burton’s assessment: 
 
-> Many incentives exist for people to usher new weapons successfully into the system. The rewards include promotions, career advancements, and the possibility of high salaried jobs with the defense industry after retirement [… ]. As a result of unchecked advocacy, a steady stream of weapons of unknown or questionable performances passes into military inventory. Strong resistance to realistic testing exists because such testing inevitably produces unflattering data that often inconveniences the military’s senior leaders (pg 160).
+> Many incentives exist for people to usher new weapons successfully into the system. The rewards include promotions, career advancements, and the possibility of high salaried jobs with the defense industry after retirement […]. As a result of unchecked advocacy, a steady stream of weapons of unknown or questionable performances passes into military inventory. Strong resistance to realistic testing exists because such testing inevitably produces unflattering data that often inconveniences the military’s senior leaders (pg 160).
 
 Burton’s reward for cleaning up Bradley testing was forced retirement. Technically, the Air Force tells him to transfer to Wright Patterson Air Force Base or retire. This transfer order is delivered prior to the completion of the Bradley’s Joint Live Fire tests, despite on-the-record assurances from the Undersecretary of Defense that Burton would have unfettered authority to see testing through to the end. 
 
@@ -55,7 +57,7 @@ Today, there is a version of the Reform Movement that’s dispersed across Twitt
 
 On the last point, Burton and the original Reformers saw the future. The Blitzfighter was Burton’s proposal for a “small, simple, lethal, and relatively cheap airplane that would be designed for close support of the ground troops who would be engaged with Soviet tanks and more.” It would cost less than $2 million, a price point that would allow the Air Force to “flood the battlefield with swarms of airplanes.” Today, we call this concept attritable, and it’s one in which the Air Force is [increasingly interested](https://www.afmc.af.mil/News/Article-Display/Article/2819726/afrl-team-collaborates-with-partners-to-build-innovative-airframe-test-in-state/), even if they aggressively denigrated the idea in the 80s. 
 
-Many of the issues the Reformers rallied around 50 years ago still exist today. This is frustrating. Fortunately, Col Burtons, while rare, are not extinct. Throw in the new(ish) addition of VC-funded defense tech companies looking to spearhead change, and I will optimistically state we’re looking at a lethal combination. 
+Many of the issues the Reformers rallied around 50 years ago still exist today. This is frustrating. Fortunately, Col. Burtons, while rare, are not extinct. Throw in the new(ish) addition of VC-funded defense tech companies looking to spearhead change, and I will optimistically state we’re looking at a lethal combination. 
 
 ---
 
