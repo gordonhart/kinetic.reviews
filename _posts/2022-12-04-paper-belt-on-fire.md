@@ -6,6 +6,9 @@ year: 2022
 blurb: Gibson's book details the history of the controversial but highly successful Thiel Fellowship from the rare perspective of someone who worked with Thiel and isn't out to write a hit piece. 
 tags:
   - nonfiction
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/5116728617
 redirect_from: /posts/2022-12-04-paper-belt-on-fire
 ---
 

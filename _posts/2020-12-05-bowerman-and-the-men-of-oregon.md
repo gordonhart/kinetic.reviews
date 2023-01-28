@@ -7,6 +7,9 @@ blurb: Bill Bowerman was known first and foremost as Oregon’s iconic track coa
 tags:
   - nonfiction
   - biography
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/3379130401
 redirect_from: /posts/2020-12-05-bowerman-and-the-men-of-oregon
 ---
 

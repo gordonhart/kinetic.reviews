@@ -6,6 +6,9 @@ year: 2020
 tags:
   - nonfiction
   - fragment
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/3491505745
 redirect_from: /posts/2020-09-13-the-precipice
 ---
 

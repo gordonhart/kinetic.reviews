@@ -7,6 +7,9 @@ blurb: |
   Col. Burton "crosses the Rubicon,” to use his phrase, and goes to war with the Pentagon over the testing of the Bradley Fighting Vehicle. Burton meticulously details how careerism, incompetence, and willful stupidity collide in a tragically ironic way to undermine the testing of the weapons meant to protect troops. 
 tags:
   - nonfiction
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/4961129913
 redirect_from: /posts/2023-01-22-pentagon-wars
 ---
 

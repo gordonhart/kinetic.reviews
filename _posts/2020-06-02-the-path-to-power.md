@@ -6,6 +6,9 @@ year: 1982
 tags:
   - nonfiction
   - fragment
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/3371399306
 redirect_from: /posts/2020-06-02-the-path-to-power
 ---
 

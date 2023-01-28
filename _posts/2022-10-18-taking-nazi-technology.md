@@ -6,6 +6,9 @@ year: 2019
 blurb: Taking technology is easy; integrating it is hard. Sustained, on-the-ground contact with German scientists, including visiting factories and embedding trainees into German research centers, yielded the best results. The Allied powers (mis)understood this to various degrees, and their approaches to technology appropriation differed based on resources available and ideology.
 tags:
   - nonfiction
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/4561077669
 redirect_from: /posts/2022-10-18-taking-nazi-technology
 ---
 

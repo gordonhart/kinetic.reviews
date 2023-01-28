@@ -8,6 +8,9 @@ blurb: |
 tags:
   - nonfiction
   - space
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/5191431081
 redirect_from: /posts/2023-01-16-corona-project
 ---
 
