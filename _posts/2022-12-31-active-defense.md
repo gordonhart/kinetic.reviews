@@ -7,6 +7,9 @@ tags:
   - nonfiction
   - space
   - China
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/2797865995
 redirect_from: /posts/2022-12-31-active-defense
 ---
 
