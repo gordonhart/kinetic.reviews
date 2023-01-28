@@ -7,6 +7,7 @@ blurb: Prior to reading <i>Gorillas in the Mist</i>, I knew little about Dian Fo
 tags:
   - nonfiction
   - biography
+redirect_from: /posts/2022-09-06-gorillas-in-the-mist
 ---
 
 > As a pioneer I sometimes did endure loneliness, but I have reaped a tremendous satisfaction that followers will never be able to know. (pg. 25)

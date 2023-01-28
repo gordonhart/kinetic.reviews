@@ -6,6 +6,7 @@ year: 2020
 blurb: A convincing wake-up call that the military-congressional-industrial complex is so broken that the very survival of America as Americans know it is at risk unless mammoth changes are made in how the Department of Defense defines, identifies, procures and deploys emerging technology, a problem that is as much about organizational change as it is about technological change
 tags:
   - nonfiction
+redirect_from: /posts/2020-04-24-the-kill-chain
 ---
 
 _The Kill Chain_ is a convincing wake-up call that the military-congressional-industrial complex is so broken that the very survival of America as Americans know it is at risk unless mammoth changes are made in how the Department of Defense defines, identifies, procures and deploys emerging technology, a problem that is as much about organizational change as it is about technological change. 

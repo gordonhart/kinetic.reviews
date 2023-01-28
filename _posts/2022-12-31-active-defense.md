@@ -7,6 +7,7 @@ tags:
   - nonfiction
   - space
   - China
+redirect_from: /posts/2022-12-31-active-defense
 ---
 
 In 1957, the Soviet Union launched the first artificial Earth-orbiting satellite, _Sputnik 1_, and achieved a critical Cold War milestone before the US. The American public was shocked to learn that the Soviets, far from being technologically behind, were ahead of the US – and so the “Sputnik Moment” marked the launch of the Space Race, providing the wake-up call the US needed to invest in science and technology and beat the Soviets to the Moon in 1969. That’s the tidy version of the narrative, anyways. The reality is more complicated, as President Eisenhower and the CIA were tracking Soviet satellite developments closely and were not actually surprised by the Sputnik 1 launch.
