@@ -7,6 +7,10 @@ blurb: |
   Col. Burton "crosses the Rubicon,” to use his phrase, and goes to war with the Pentagon over the testing of the Bradley Fighting Vehicle. Burton meticulously details how careerism, incompetence, and willful stupidity collide in a tragically ironic way to undermine the testing of the weapons meant to protect troops. 
 tags:
   - nonfiction
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/4961129913
+redirect_from: /posts/2023-01-22-pentagon-wars
 ---
 
 I have a thing for the Unsung heroes of history. My favorite protagonists are the humble mavericks who persist in unglamorous toil on a single task for years, [usually decades](https://www.linkedin.com/posts/madeline-zimmerman_whoever-said-never-meet-your-heroes-never-activity-7010614872874864641-MEs9?utm_source=share&utm_medium=member_desktop). Sometimes they achieve vindication with a large, public victory and lasting glory, but this is the exception. Often, only a handful of people closest to them understand the impact had and the sacrifices made. Colonel (Ret.) James Burton is such a person. He documents his labor in <i>The Pentagon Wars</i>, an outstanding book that inspired a 1998 HBO movie by the same name.

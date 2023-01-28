@@ -7,6 +7,10 @@ blurb: Bill Bowerman was known first and foremost as Oregon’s iconic track coa
 tags:
   - nonfiction
   - biography
+links:
+  - name: goodreads
+    url: https://www.goodreads.com/review/show/3379130401
+redirect_from: /posts/2020-12-05-bowerman-and-the-men-of-oregon
 ---
 
 As the title of the book states, Bill Bowerman was known first and foremost as Oregon’s iconic track coach and only second as the founder of Nike, a fact which all but guarantees an interesting biography. While author Moore had excellent source material, great credit goes to him for producing a beautifully-written book that is engaging whether it is bringing to life dozens of races or recounting the tribulations of Bowerman’s ancestors on the Oregon trail. Moore’s account also benefits from his own intimate relationship to the subject: a Bowerman-trained athlete while at Oregon and for years after, Moore just missed an Olympic medal in the Marathon.

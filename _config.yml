@@ -6,3 +6,4 @@ author: Madeline Zimmerman
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-redirect-from
