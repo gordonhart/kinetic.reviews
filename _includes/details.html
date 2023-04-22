@@ -1,0 +1,7 @@
+<div>
+  <a href="{{ include.post.id }}">{{ include.post.title }}</a>
+  {% if include.post.year %}({{ include.post.year }}){% endif %}
+  {% if include.post.author %}by {{ include.post.author }}{% endif %}
+  {% if include.post.tags contains "fragment" %}<small>[fragment]</small>{% endif %}
+</div>
+{% if include.post.blurb %}<aside><small>{{ include.post.blurb }}</small></aside>{% endif %}

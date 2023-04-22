@@ -6,6 +6,10 @@ layout: default
 
 <table>
   {% for post in site.posts %}
-  {% include row.html post=post %}
+  <tr>
+    <td>{{ post.date | date: "%b" }}</td>
+    <td>{{ post.date | date: "%Y" }}</td>
+    <td>{% include details.html post=post %}</td>
+  </tr>
   {% endfor %}
 </table>
