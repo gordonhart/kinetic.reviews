@@ -2,7 +2,7 @@
   <tbody>
     <tr>
       {% if page.previous %}<td><small><code>◂</code> <a href="{{ page.previous.id }}">prev: {{ page.previous.date | date: "%b %Y" }}</a></small></td>{% endif %}
-      {% if page.next %}<td><small><a href="{{ page.previous.id }}">next: {{ page.next.date | date: "%b %Y" }}</a> <code>▸</code></small></td>{% endif %}
+      {% if page.next %}<td><small><a href="{{ page.next.id }}">next: {{ page.next.date | date: "%b %Y" }}</a> <code>▸</code></small></td>{% endif %}
     <tr>
       {% if page.previous %}<td>{% include details.html post=page.previous %}</td>{% endif %}
       {% if page.next %}<td>{% include details.html post=page.next %}</td>{% endif %}
