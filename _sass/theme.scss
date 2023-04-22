@@ -101,6 +101,14 @@ th, td {
   vertical-align: top;
   padding: $gap-half $gap-small;
   border-bottom: 1px solid $color-gray;
+
+  &:first-child {
+    padding-left: 0;
+  }
+
+  &:last-child {
+    padding-right: 0;
+  }
 }
 
 th {
