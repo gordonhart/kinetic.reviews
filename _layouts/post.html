@@ -19,7 +19,7 @@ layout: default
 
 <p>
   <div><small>date: {{ page.date | date_to_string }}</small></div>
-  {% if page.tags %}<div><small>tags: <em>{{ page.tags | join: ", " }}</em></small><div>{% endif %}
+  {% if page.tags %}<div><small>tags: <em>{{ page.tags | join: ", " }}</em></small></div>{% endif %}
   {% if page.links %}<div><small>links: {% for link in page.links %}<a href="{{ link.url }}">{{ link.name }}</a>{%- if forloop.index < forloop.length -%},{%- endif -%}{% endfor %}</small></div>{% endif %}
   <div><small><a href="/">back</a></small></div>
 </p>
