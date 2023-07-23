@@ -4,7 +4,7 @@ title: "<i>Freedom's Forge: How American Business Produced Victory in World War 
 author: Arthur Herman
 year: 2012
 blurb: |
-  Col Burton "crosses the Rubicon,” to use his phrase, and goes to war with the Pentagon over the testing of the Bradley Fighting Vehicle. Burton meticulously details how careerism, incompetence, and willful stupidity collide in a tragically ironic way to undermine the testing of the weapons meant to protect troops. 
+  <i>Freedom’s Forge</i> is as much an invigorating ode to capitalism in the U.S. during WWII as it is an indictment of centralized planning and Communist labor organizations during the same period. Arthur Herman convincingly demonstrates that the biggest threat to U.S. wartime production, and by extension, our defeat of the Axis, was labor unions. 
 tags:
   - nonfiction
 ---
