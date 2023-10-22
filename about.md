@@ -9,7 +9,7 @@ Hello, Kinetic Readers: my name is Madeline Zimmerman, and I started this blog t
 I’m interested in human conflict: what causes it, how we engage in it, and how we prevent it. Expect to find book reviews on topics directly and indirectly related to conflict, including evolution, economics, defense procurement, technology, history, and, of course, science fiction.
 
 <figure>
-  <img alt="Bradley Fighting Vehicle" src="/assets/img/bfv.jpg" />
+  <img alt="Bradley Fighting Vehicle" src="{{ site.baseurl }}/assets/img/bfv.jpg" />
   <figcaption><center><small>
     The Bradley Fighting Vehicle, whose troubled development and procurement is documented in <i>The Pentagon Wars</i>.
   </small></center></figcaption>

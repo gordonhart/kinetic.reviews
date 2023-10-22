@@ -1,8 +1,8 @@
 <table style="table-layout: fixed; margin: 0">
   <tbody>
     <tr>
-      {% if page.previous %}<td><small><code>◂</code> <a href="{{ page.previous.id }}">prev: {{ page.previous.date | date: "%b %Y" }}</a></small></td>{% endif %}
-      {% if page.next %}<td><small><a href="{{ page.next.id }}">next: {{ page.next.date | date: "%b %Y" }}</a> <code>▸</code></small></td>{% endif %}
+      {% if page.previous %}<td><small><code>◂</code> <a href="{{ site.baseurl }}/{{ page.previous.id }}">prev: {{ page.previous.date | date: "%b %Y" }}</a></small></td>{% endif %}
+      {% if page.next %}<td><small><a href="{{ site.baseurl }}/{{ page.next.id }}">next: {{ page.next.date | date: "%b %Y" }}</a> <code>▸</code></small></td>{% endif %}
     <tr>
       {% if page.previous %}<td>{% include details.html post=page.previous %}</td>{% endif %}
       {% if page.next %}<td>{% include details.html post=page.next %}</td>{% endif %}

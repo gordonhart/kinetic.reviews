@@ -25,7 +25,7 @@ In 1983, the cover of <i>Time</i> magazine was splashed with the face of Chuck S
 
 <figure>
   <center>
-  <img style="width: 100%; max-width: 360px" alt="Chuck Spinney" src="/assets/img/ChuckSpinney.jpg" />
+  <img style="width: 100%; max-width: 360px" alt="Chuck Spinney" src="{{ site.baseurl }}/assets/img/ChuckSpinney.jpg" />
   <figcaption><small>
     Chuck Spinney makes an appearance on the cover of the March 7, 1983 issue of <i>Time</i>.
   </small></figcaption>

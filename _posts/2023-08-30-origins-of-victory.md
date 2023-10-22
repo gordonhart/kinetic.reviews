@@ -29,7 +29,7 @@ Krepinevich’s proof that the Reformers were wrong is the First Gulf War, where
 
 <figure>
   <center>
-  <img style="width: 100%; max-width: 360px" alt="A-10" src="/assets/img/A-10 Thunderbolt II.jpg" />
+  <img style="width: 100%; max-width: 360px" alt="A-10" src="{{ site.baseurl }}/assets/img/A-10 Thunderbolt II.jpg" />
   <figcaption><small>
     A-10 Thunderbolt II
   </small></figcaption>
@@ -44,7 +44,7 @@ Thematically, the Defense Reform Movement could not have been more correct, some
 
 <figure>
   <center>
-  <img style="width: 100%; max-width: 360px" alt="Zumwalt" src="/assets/img/Zumwalt.jpg" />
+  <img style="width: 100%; max-width: 360px" alt="Zumwalt" src="{{ site.baseurl }}/assets/img/Zumwalt.jpg" />
   <figcaption><small>
     The Zumwalt-class Destroyer. 32 planned, 29 canceled. Cost: $22.5bn.
   </small></figcaption>
@@ -55,7 +55,7 @@ Krepinevich then proceeds to pose the questions: “Which capabilities merit con
 
 <figure>
   <center>
-  <img style="width: 100%; max-width: 360px" alt="Trae" src="/assets/img/Trae.jpg" />
+  <img style="width: 100%; max-width: 360px" alt="Trae" src="{{ site.baseurl }}/assets/img/Trae.jpg" />
   </center>
 </figure>
 

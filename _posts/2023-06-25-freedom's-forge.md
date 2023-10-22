@@ -34,7 +34,7 @@ The media and much of the public is still allergic to industry’s success. Last
 But the sentiment below was a common one ([link](https://twitter.com/ShurtugalTCG/status/1649063066535882752)): 
 
 <figure>
-  <img alt="starship" src="/assets/img/starship.jpg" />
+  <img alt="starship" src="{{ site.baseurl }}/assets/img/starship.jpg" />
 </figure>
 
 Politicians joined the fray, with Rep. Zoe Lofgren (D-Calif), top Democrat on the House Science, Space, and Technology Committee, remarking, “I must say, when I saw that rocket blow up, I thought, thank God there’s no people on board. Sometimes the lowest bidder is not always the best choice.”
